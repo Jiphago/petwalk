@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">petwalk</string>
+    <string name="title_home">홈</string>
+    <string name="title_community">펫 생활</string>
+    <string name="title_location">내 근처</string>
+    <string name="title_chat">채팅</string>
+    <string name="title_profile">프로필</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_successful">Save successful</string>
+    <string name="access_token_error">Access token error</string>
+</resources>
